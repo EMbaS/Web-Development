@@ -1,0 +1,45 @@
+h1 {
+    background-color: rgb(0, 255, 21);
+    color: blue;
+    font-size: 50px;
+}
+
+.highlight {
+    color: blue;
+    font-style: italic;
+}
+
+.redgrey {
+    color: red;
+    background-color: rgb(230, 230, 230);
+}
+
+.largegreenfoot {
+    color: green;
+    font-size: 3em;
+}
+
+.spanforall {
+    color: magenta;
+    font-size: 5em;
+}
+
+figure {
+    float: left;
+    border: 1px solid grey;
+    margin: 5px 5px 5px 0px;
+    padding: 0px;
+    background-color: white;
+}
+
+.tableclass {
+    border: solid 1px black;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+td, th, table {
+    border: 1px solid black;
+    margin: 0px;
+    padding: 10px;
+}
